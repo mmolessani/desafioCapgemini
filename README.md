@@ -5,7 +5,7 @@ Foi criado o documento Documentacao_Cap_Mmolessani.docx e nele contém:
 2) O que é necessário para rodar;
 3) As evidências dos testes.
 
-Os fontes java do desafio estão armazenados no diretório src.
+Os fontes .java do desafio estão no arquivo src.zip.
 
 # Tecnologia Utilizada
 
